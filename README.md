@@ -6,4 +6,4 @@ HTML,CSS
 
 <h2> Ekran görüntüsü </h2>
 
-1[](ekran.gif)
+![](ekran.gif)
